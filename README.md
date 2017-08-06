@@ -4,6 +4,7 @@ Watson API (Application Programming Interface) to extract PI (Personality Insigh
 Using Python programming language and leveraging Watson API this tool compares 2 separate Twitter accounts (User, Celebrity) and extracts the top 5 traits shared between them. The app then calculates the probability of each profile exhibiting the given trait and compares the two against each other. The language capability of APIs was leveraged to retrieve insights from large, unstructured bodies of text. This is 1 of the 19 APIs available within the Watson Developer cloud. In this case, the Personality Insights API was utilized to extract the traits of the author.
 
 The result of the comparison of the top 5 traits shared between users:
+
 (Matched Personality Trait)-> (Probability of Profile Exhibiting Given Trait)-> (Probability of Celebrity Profile Exhibiting given trait)-> (Compared Results)
 
 Activity level 0.986268193916 -> 0.98416122099 -> 0.0021069729259
