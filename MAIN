@@ -52,7 +52,7 @@ def compare(dict1, dict2):
       return compared_data
 
 
-user_handle = "@leahebae"
+user_handle = "@microsoftcanada"
 celebrity_handle = "@IBM"
 
 user_result = analyze(user_handle)
