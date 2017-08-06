@@ -5,7 +5,7 @@ Using Python programming language and leveraging Watson API this tool compares 2
 
 The result of the comparison of the top 5 traits shared between users:
 
-(Matched Personality Trait)-> (Probability of Profile Exhibiting Given Trait)-> (Probability of Celebrity Profile Exhibiting given trait)-> (Compared Results)
+(Matched Personality Trait)-> (Probability of User Profile Exhibiting Given Trait)-> (Probability of Celebrity Profile Exhibiting given trait)-> (Compared Results)
 
 Activity level 0.986268193916 -> 0.98416122099 -> 0.0021069729259
 
