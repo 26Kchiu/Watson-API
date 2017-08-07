@@ -8,9 +8,9 @@ from watson_developer_cloud import PersonalityInsightsV2 as PersonalityInsights
 
 def analyze(handle):
   twitter_consumer_key = 'g8cApUgiRQ83Ao3URH8owJ3p3'
-  twitter_consumer_secret = 'WbWnLtkr3V86yhEw1QCWDeIiadNVwzZFneD0hKyMAAOx8vG3ci'
+  twitter_consumer_secret = '2WbWnLtkr3V86yhEw1QCWDeIiadNVwzZFneD0hKyMAAOx8vG3ci'
   twitter_access_token = '561805901-sAziVQS1nOzZgCoL05rUuTZYpBomfAcOG5NDCNCB'
-  twitter_access_secret = 'QHcxoCZQOyWUTVwdbe2Wdq6i0cew0s7eQdD81hc9JwVTf'
+  twitter_access_secret = '2QHcxoCZQOyWUTVwdbe2Wdq6i0cew0s7eQdD81hc9JwVTf'
 
   twitter_api = twitter.Api(consumer_key=twitter_consumer_key,
                           consumer_secret=twitter_consumer_secret,
